@@ -1,0 +1,24 @@
+{"Foods":[
+		{"ID":"001", "Name":"BBQ Chicken Flatbread", "Type":"Sandwich", "Calories":"380", "Carbs":"41", "Protein":"Chicken" },
+		{"ID":"002", "Name":"Sofritas Corn Tortilla Taco", "Type":"Taco", "Calories":"620", "Carbs":"24", "Protein":"Sofritas" },
+		{"ID":"003", "Name":"Chorizo Burrito Bowl", "Type":"Burrito Bowl", "Calories":"750", "Carbs":"89", "Protein":"Steak" },
+		{"ID":"004", "Name":"Bear Claw", "Type":"Pastry", "Calories":"380", "Carbs":"41", "Protein":"Chicken" },
+		{"ID":"005", "Name":"Chicken Burrito", "Type":"Burrito", "Calories":"975", "Carbs":"56", "Protein":"Steak" },
+		{"ID":"006", "Name":"Steak Quesadilla", "Type":"Quesadilla", "Calories":"550", "Carbs":"43", "Protein":"Steak"},
+		{"ID":"007", "Name":"Chicken Flatbread", "Type":"Sandwich", "Calories":"900", "Carbs":"13", "Protein":"Chicken" },
+		{"ID":"008", "Name":"Mac and Cheese Breadbowl", "Type":"Taco", "Calories":"1140", "Carbs":"166", "Protein":"Sofritas" },
+		{"ID":"009", "Name":"Cup of Vegetarian Autumn Squash Soup", "Type":"Burrito Bowl", "Calories":"230", "Carbs":"29", "Protein":"Steak" },
+		{"ID":"010", "Name":"Steak Quesadilla", "Type":"Quesadilla", "Calories":"550", "Carbs":"30", "Protein":"Steak"},
+		{"ID":"011", "Name":"Pecan Roll", "Type":"Burrito", "Calories":"975", "Carbs":"10", "Protein":"Chicken" },
+		{"ID":"012", "Name":"Steak Quesadilla", "Type":"Quesadilla", "Calories":"550", "Carbs":"30", "Protein":"Steak"},
+		{"ID":"013", "Name":"Cup of French Onion Soup", "Type":"Salad", "Calories":"230", "Carbs":"29", "Protein":"Veggie" },
+		{"ID":"014", "Name":"4 piece Chicken Strips", "Type":"Salad", "Calories":"975", "Carbs":"200", "Protein":"Chicken" },
+		{"ID":"015", "Name":"Bear Claw", "Type":"Pastry", "Calories":"380", "Carbs":"41", "Protein":"Chicken" },
+		{"ID":"016", "Name":"Double Whopper", "Type":"Quesadilla", "Calories":"900", "Carbs":"89", "Protein":"Steak"},
+		{"ID":"017", "Name":"Sofritas Corn Tortilla Taco", "Type":"Taco", "Calories":"620", "Carbs":"24", "Protein":"Sofritas" },
+		{"ID":"018", "Name":"Small Hash Browns", "Type":"Burrito Bowl", "Calories":"750", "Carbs":"89", "Protein":"Chicken" },
+		{"ID":"019", "Name":"Seasonal Greens Salad", "Type":"Salad", "Calories":"180", "Carbs":"20", "Protien":"Veggie" },
+		{"ID":"020", "Name":"Sofritas Corn Tortilla Taco", "Type":"Taco", "Calories":"620", "Carbs":"78", "Protein":"Sofritas" },
+		{"ID":"021", "Name":"4 piece Chicken Strips", "Type":"Salad", "Calories":"975", "Carbs":"200", "Protein":"Chicken" }
+]}
+	
